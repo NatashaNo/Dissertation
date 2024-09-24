@@ -7,6 +7,36 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: KONSTRUKCJA_-_SCIANY_ZEW_SZKLO_-_CZYSTE_SZYBKIEMat
+    second: {fileID: 2100000, guid: 7f3b61dd888455d4891f5cefaa506e3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_DREWNO_-_SOSNA_SEKI_POZIOMO_FLAT_PARTMat
+    second: {fileID: 2100000, guid: 795d83476a5ea5c45a1b4e24836ce4f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_DREWNO_-_SOSNA_SEKI_POZIOMO_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: 260aa8e914bd59b4cae17a2fe200bafc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_FARBA_-_ANTRACYTMat
+    second: {fileID: 2100000, guid: c0bfc275f7449b54cbedc3eb731221cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_FARBA_-_KOBALTOWY_NIEBIESKI_FLAT_PARTMat
+    second: {fileID: 2100000, guid: 5aa643b73ae8d474ea0485c23f45f1c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_FARBA_-_KOBALTOWY_NIEBIESKI_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: d679b84f90588774590f25ca07cbec49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: WNETRZE_-_UMEBLOWANIE_SZKLO_-_NIEBIESKIEMat
     second: {fileID: 2100000, guid: 01a0180bc6e574a4399d181e93818449, type: 2}
   materials:
