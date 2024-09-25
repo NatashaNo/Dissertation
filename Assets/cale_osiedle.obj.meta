@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: KONSTRUKCJA_-_DACHY_DACH_DACHOWKA_BITUMICZNA_SZARAMat
+    second: {fileID: 2100000, guid: f18bb6602f54fc143981777a328d55a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: KONSTRUKCJA_-_SCIANY_ZEW_FARBA_-_CIEMNOSZARYMat
     second: {fileID: 2100000, guid: 8065e0cf750a5c64aa76c7aeb1a33f70, type: 2}
   - first:
