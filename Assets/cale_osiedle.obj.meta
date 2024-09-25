@@ -7,6 +7,16 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: KONSTRUKCJA_-_SCIANY_ZEW_FARBA_-_CIEMNOSZARYMat
+    second: {fileID: 2100000, guid: 8065e0cf750a5c64aa76c7aeb1a33f70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KONSTRUKCJA_-_SCIANY_ZEW_SZKLO_-_CZYSTE_SZYBKIEMat
+    second: {fileID: 2100000, guid: 01a0180bc6e574a4399d181e93818449, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: KONSTRUKCJA_-_SCIANY_ZEW_TYNK_SZLACHETNY_-_BIALY_MATOWYMat
     second: {fileID: 2100000, guid: 6285c2ae18658564b9bdf1a631aa6c33, type: 2}
   - first:
@@ -14,6 +24,36 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: KONSTRUKCJA_-_STROPY_FARBA_-_CIEMNOSZARYMat
     second: {fileID: 2100000, guid: 16f66f59038f1e349ac064b6e574811e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_CERAMIKA_-_PORCELANA_FLAT_PARTMat
+    second: {fileID: 2100000, guid: 6b4a7208b47505d46830c730a76fc971, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_CERAMIKA_-_PORCELANA_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: 6b4a7208b47505d46830c730a76fc971, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_DREWNO_-_SOSNA_SEKI_POZIOMO_FLAT_PARTMat
+    second: {fileID: 2100000, guid: 709c95cbc1955cf47956291ff71090d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_DREWNO_-_SOSNA_SEKI_POZIOMO_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: 709c95cbc1955cf47956291ff71090d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_FARBA_-_CZERN_KRUCZA_FLAT_PARTMat
+    second: {fileID: 2100000, guid: d3a9218e1bb028444b6332d4e6c9b64a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_FARBA_-_CZERN_KRUCZA_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: d3a9218e1bb028444b6332d4e6c9b64a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -47,8 +87,38 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_METAL_-_CYNK_FLAT_PARTMat
+    second: {fileID: 2100000, guid: ac3f581acbdb5574aad6ec11fbe5ee20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_METAL_-_CYNK_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: ac3f581acbdb5574aad6ec11fbe5ee20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_METAL_-_STAL_NIERDZEWNA_FLAT_PARTMat
+    second: {fileID: 2100000, guid: 1a89323f848f8554b8458e00134ca00b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_METAL_-_STAL_NIERDZEWNA_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: 1a89323f848f8554b8458e00134ca00b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: WNETRZE_-_UMEBLOWANIE_SZKLO_-_NIEBIESKIEMat
     second: {fileID: 2100000, guid: 6c958c4506c0c304a85034dc235d6619, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_TKANINA_-_01_FLAT_PARTMat
+    second: {fileID: 2100000, guid: 6c7e13d534b6c6c4eaf7ea58dc1a99ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_TKANINA_-_01_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: 6c7e13d534b6c6c4eaf7ea58dc1a99ae, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -69,6 +139,16 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: ZAGOSPODAROWANIE_-_TEREN_CHODNIK_-_ASFALT_JASNY_SMOOTH_PARTMat
     second: {fileID: 2100000, guid: 714a01c5910df6d4e8592fccb959c6e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZAGOSPODAROWANIE_-_TEREN_TRAWA_-_BRAZOWY_FLAT_PARTMat
+    second: {fileID: 2100000, guid: def284317d2d82746b8c73c441c33064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZAGOSPODAROWANIE_-_TEREN_TRAWA_-_BRAZOWY_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: def284317d2d82746b8c73c441c33064, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
