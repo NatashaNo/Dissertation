@@ -187,6 +187,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -3393859758373614584, guid: d4aeb3865be38e54d836f30817f979f5, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 99b6b53cf23266449b60ef4720ab71a0, type: 2}
     - target: {fileID: 919132149155446097, guid: d4aeb3865be38e54d836f30817f979f5, type: 3}
       propertyPath: m_Name
       value: Wieniawskiego_domki wiz
