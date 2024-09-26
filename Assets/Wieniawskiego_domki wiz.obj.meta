@@ -3,7 +3,227 @@ guid: 1311b30a5f39ef946a1a4c9348dafe69
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KONSTRUKCJA_-_DACHY_DACH_DACHOWKA_BITUMICZNA_SZARAMat
+    second: {fileID: 2100000, guid: f18bb6602f54fc143981777a328d55a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KONSTRUKCJA_-_DACHY_FARBA_-_BIEL_TYTANOWAMat
+    second: {fileID: 2100000, guid: 6285c2ae18658564b9bdf1a631aa6c33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KONSTRUKCJA_-_SCHODY_BETON_-_04_FLAT_PARTMat
+    second: {fileID: 2100000, guid: 2d36ae3948b87744f8ac23eafdbb93d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KONSTRUKCJA_-_SCHODY_BETON_-_04_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: 00fc15fa531bd6e4a8db7782b6026fa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KONSTRUKCJA_-_SCIANY_ZEW_CEGLA_-_KOLOR_POWIERZCHNIMat
+    second: {fileID: 2100000, guid: 6831cd7332eba8748901415afe635ff8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KONSTRUKCJA_-_SCIANY_ZEW_FARBA_-_BIEL_TYTANOWAMat
+    second: {fileID: 2100000, guid: 8177a00bda8e67f48acfcd8d00cb03cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KONSTRUKCJA_-_SCIANY_ZEW_FARBA_-_CIEMNOSZARYMat
+    second: {fileID: 2100000, guid: 07e60c056a80b12409d08856cde82762, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KONSTRUKCJA_-_SCIANY_ZEW_IZOLACJA_-_WELNA_SZKLANAMat
+    second: {fileID: 2100000, guid: 902f16d4abd23b943b129616c78d9a79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KONSTRUKCJA_-_SCIANY_ZEW_SZKLO_-_CZYSTE_SZYBKIEMat
+    second: {fileID: 2100000, guid: 3fe8eb697e2bae04885045388c605751, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KONSTRUKCJA_-_STROPY_FARBA_-_BIEL_TYTANOWAMat
+    second: {fileID: 2100000, guid: b42dc2bc6eb635d4fbde87c42e019cfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KONSTRUKCJA_-_STROPY_FARBA_-_CIEMNOSZARYMat
+    second: {fileID: 2100000, guid: 16f66f59038f1e349ac064b6e574811e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KONSTRUKCJA_-_STROPY_FARBA_-_JASNA_SZAROSCMat
+    second: {fileID: 2100000, guid: 020225b4c429c574280bdb096f9a8cb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_CERAMIKA_-_PORCELANA_FLAT_PARTMat
+    second: {fileID: 2100000, guid: 41f04b4708917824a92c6e69085c620a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_CERAMIKA_-_PORCELANA_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: b465cec349cce3e46b274171361347c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_DREWNO_-_SOSNA_SEKI_POZIOMO_FLAT_PARTMat
+    second: {fileID: 2100000, guid: 0953adbbde425e54d8cf92cf5f7aee42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_DREWNO_-_SOSNA_SEKI_POZIOMO_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: b9a07edb932ae75469c3f457c4016e78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_FARBA_-_ANTRACYTMat
+    second: {fileID: 2100000, guid: 61e1ef17e2b7f3948a225f68a2db2f44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_FARBA_-_BEZ_PIASKOWYMat
+    second: {fileID: 2100000, guid: 89a6a9cdc576c544fb528333e34dcd18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_FARBA_-_BIEL_BLYSZCZACA_FLAT_PARTMat
+    second: {fileID: 2100000, guid: d15e78a242873b94c8d66beec21f26dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_FARBA_-_BIEL_BLYSZCZACA_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: 7b975ac4b6525464c9080e414f845ca5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_FARBA_-_BIEL_TYTANOWA_FLAT_PARTMat
+    second: {fileID: 2100000, guid: 9af9e3d266f194c4181fb481fc991fec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_FARBA_-_BIEL_TYTANOWA_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: 8a9e8f4fbd4eb9d4293e7fcfb8956d20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_FARBA_-_CIEMNOSZARYMat
+    second: {fileID: 2100000, guid: 3f76ec150839b7b4191b52d80370c834, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_FARBA_-_CZERN_KRUCZA_FLAT_PARTMat
+    second: {fileID: 2100000, guid: 5d56b9945b4e1df4888262b77364fe03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_FARBA_-_CZERN_KRUCZA_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: b8a6a6fb5bb40ca4a89a90c16be8c85b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_FARBA_-_JASNA_SZAROSC_FLAT_PARTMat
+    second: {fileID: 2100000, guid: c2ec76244268c4c4ca954304d786f921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_FARBA_-_JASNA_SZAROSC_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: b45589934b3dc7e43a81a2c155cff0f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_FARBA_-_KOBALTOWY_NIEBIESKI_FLAT_PARTMat
+    second: {fileID: 2100000, guid: bbc7912bb8bb81e48b2d153f3a943a2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_FARBA_-_KOBALTOWY_NIEBIESKI_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: cb155df487c5bb742b20164c72acb85e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_METAL_-_ALUMINIUM_FLAT_PARTMat
+    second: {fileID: 2100000, guid: 4bea196a0533c094f8a4566474e42004, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_METAL_-_ALUMINIUM_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: 5ae6255e54140214e8e47da583246b48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_METAL_-_CHROM_FLAT_PARTMat
+    second: {fileID: 2100000, guid: d234219e9d6273144920a5af71dd41a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_METAL_-_CHROM_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: 7c6b7ded0dc459a45a9387adcbbf6d62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_METAL_-_CYNK_FLAT_PARTMat
+    second: {fileID: 2100000, guid: cdde09214a888fa4c89be54f2c5b3d1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_METAL_-_CYNK_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: b05176b757271684d83893773a976334, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_METAL_-_STAL_NIERDZEWNA_FLAT_PARTMat
+    second: {fileID: 2100000, guid: 4e5898d35ce9d514285dd7460fc65fe6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_METAL_-_STAL_NIERDZEWNA_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: 1a84576e7e1caac40a68043895795d6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_METAL_-_ZELIWO_FLAT_PARTMat
+    second: {fileID: 2100000, guid: e97a6980fba5be54298587ed6bc8ebf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_METAL_-_ZELIWO_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: b2a1d6ea02d7a1042b72b2bb4e92bc2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_PLASTIK_-_LAMINAT_FLAT_PARTMat
+    second: {fileID: 2100000, guid: 9894d15e3ea94dd42b7ee599e74bb4b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_PLASTIK_-_LAMINAT_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: e5801b001db5ed046a2ff609df5c433a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_SZKLO_-_NIEBIESKIEMat
+    second: {fileID: 2100000, guid: f1cd7b736908cd640b3c9371e79bbe10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_TKANINA_-_01_FLAT_PARTMat
+    second: {fileID: 2100000, guid: f65feab559c3ff141b44b2ba9b4a6869, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WNETRZE_-_UMEBLOWANIE_TKANINA_-_01_SMOOTH_PARTMat
+    second: {fileID: 2100000, guid: 0f72a6f0a6bb4ca40929eb16c55b7c65, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
