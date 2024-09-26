@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6d6328f83ad10be4eb17192c99ce41ed
+guid: 04d23050ff008f849afc73e557f189cb
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -8,12 +8,62 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: A23DMAT_001
-    second: {fileID: 2100000, guid: c80db3ad1df28ed49a9ddc308c8636e3, type: 2}
+    second: {fileID: 2100000, guid: da8d856966d85fc418ce57c3ae7746a0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: A23DMAT_002
-    second: {fileID: 2100000, guid: 72cb129478e6b674b90d6e4c43bf3d80, type: 2}
+    second: {fileID: 2100000, guid: 12a0b801e15360245aa9a779db4b6a65, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_001_Albedo
+    second: {fileID: 2800000, guid: 81665cb3942fdc44fb9d0db0c2ad37c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_001_Metallic
+    second: {fileID: 2800000, guid: 3bb323ef0d438de408a7bd4661f5d608, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_001_Normal
+    second: {fileID: 2800000, guid: a7ac7c111d5a3d9489f77f9f4bbdcdae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_001_Opacity
+    second: {fileID: 2800000, guid: 99f0009bc95297e488a341275bceea09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_001_Roughness
+    second: {fileID: 2800000, guid: c6bfd36cf28ce474a8f19cdb5fa76b67, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_001_Specular Level
+    second: {fileID: 2800000, guid: 37ae9f81e831517458fad71093c3e42d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_002_Albedo
+    second: {fileID: 2800000, guid: fec4c0701e2d53f4b846847e322e1bea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_002_Emissive
+    second: {fileID: 2800000, guid: 868fb1ad097915a468e881ce38d97729, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_002_Normal
+    second: {fileID: 2800000, guid: e80a8b43b85ba7a45b7f104f4c1037c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_002_Roughness
+    second: {fileID: 2800000, guid: 0f5ddc339f129dd448950e4f63ee43f7, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

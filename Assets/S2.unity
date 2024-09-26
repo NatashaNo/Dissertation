@@ -5718,6 +5718,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 7029914235988349738, guid: 9858dd8bf3e8f6d478e9a184593420f0, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: c80db3ad1df28ed49a9ddc308c8636e3, type: 2}
+    - target: {fileID: 8919637559199613169, guid: 9858dd8bf3e8f6d478e9a184593420f0, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: c80db3ad1df28ed49a9ddc308c8636e3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
