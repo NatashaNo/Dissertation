@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 3c11cbd1e78571942afaa372174722d8
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_001
+    second: {fileID: 2100000, guid: eaf18ffbc8c21cb4784d37a5eac96258, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_002
+    second: {fileID: 2100000, guid: 5593fb82fcfdd174892c2e2ced47f78a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_003
+    second: {fileID: 2100000, guid: f7a85fde096286a4fb86fdd09d3a33b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_004
+    second: {fileID: 2100000, guid: 081643a5de3d8564d9f32d6e8141932f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_005
+    second: {fileID: 2100000, guid: 7bddb1501f26e60419a56324b9be7f5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_006
+    second: {fileID: 2100000, guid: 4b3002119769d1945a490f439c7ebda8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_007
+    second: {fileID: 2100000, guid: 7dbc0852d7bcb9141a01d2d5f3471d61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_008
+    second: {fileID: 2100000, guid: 087123086be8a9243ac88485c7c9c802, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_009
+    second: {fileID: 2100000, guid: 4c07c6f7bca5cff4fab2b5df913efa03, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_001_Albedo
+    second: {fileID: 2800000, guid: 5cdfe3ea0094bf442bb3c7e69ff84633, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_001_Normal
+    second: {fileID: 2800000, guid: 62fddd340095a0d4baf0638ac585a634, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_001_Opacity
+    second: {fileID: 2800000, guid: cf38a617f1f944046a71ba462585b1b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_001_Roughness
+    second: {fileID: 2800000, guid: 46014ad538ae72b458d4f36043a072d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_002_Albedo
+    second: {fileID: 2800000, guid: c89a0af226a4e6e409ab5e7d00abea36, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_002_Normal
+    second: {fileID: 2800000, guid: 430701da9b7b3d9428ab571f4b6ad5f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_002_Opacity
+    second: {fileID: 2800000, guid: 96ef77c93dff890468e639cc55ffc560, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_002_Roughness
+    second: {fileID: 2800000, guid: 709a7802829374445943d865258c58b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_002_Specular Level
+    second: {fileID: 2800000, guid: d2eb260f4eeca4645ae87d87f638fe4b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_003_Albedo
+    second: {fileID: 2800000, guid: ef41edea45f54e84da2f42d1e385a1b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_003_Normal
+    second: {fileID: 2800000, guid: b00ae439efdefd643a30525e155653fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_003_Opacity
+    second: {fileID: 2800000, guid: 11e5dfca8287291469d993329003af48, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_003_Roughness
+    second: {fileID: 2800000, guid: c57bc528d0346734ab26eadbdc9de60b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_003_Specular Level
+    second: {fileID: 2800000, guid: f7a2bab5950b41848a5eb2c09fcac478, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_004_Albedo
+    second: {fileID: 2800000, guid: 6f40208c1d90c79439d61bd6597fbb96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_004_Normal
+    second: {fileID: 2800000, guid: ff8d39d22b7847946ab2e934081c7bcb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_004_Opacity
+    second: {fileID: 2800000, guid: 730343b31e10c5342a0df03e82e124aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_004_Roughness
+    second: {fileID: 2800000, guid: 76f55bb59c23c00488598a36281b23ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_004_Specular Level
+    second: {fileID: 2800000, guid: c7a7e76f3203aa94499c6ed97c6002db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_005_Albedo
+    second: {fileID: 2800000, guid: 7957200cdfd5dbd40959da0e6be771fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_005_Normal
+    second: {fileID: 2800000, guid: 61f19d216b64e6c4896d3664c3e77bfe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_005_Roughness
+    second: {fileID: 2800000, guid: 03a807b53de5aec4ea82905bc95319d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_006_Albedo
+    second: {fileID: 2800000, guid: d282cd16423f8304c889d018ec4d5e53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_006_Normal
+    second: {fileID: 2800000, guid: 6e1eccb232f8cd743946b44ec4b3e91d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_006_Roughness
+    second: {fileID: 2800000, guid: 0cc007756dc8d7c46ae71bc225a6d979, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_007_Albedo
+    second: {fileID: 2800000, guid: 006c9f9da695fa94295705e620994ce4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_007_Normal
+    second: {fileID: 2800000, guid: faf3a62d4f720b44fa22685ced580c26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_007_Opacity
+    second: {fileID: 2800000, guid: 57370e731b79b9746ab4cd57675ba29b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_007_Roughness
+    second: {fileID: 2800000, guid: 6007f1d7f8c9c3444afd1ed412dc17ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_007_Specular Level
+    second: {fileID: 2800000, guid: 6750652b155f7b143bf21a9b07a8fde2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_008_Albedo
+    second: {fileID: 2800000, guid: 1ff475be874be854ab49f9c25517ce43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_008_Normal
+    second: {fileID: 2800000, guid: b8894f84c11c158439be2bd37c1e70ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_008_Opacity
+    second: {fileID: 2800000, guid: 870bbda3c1c70564d8354efec82be582, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_008_Roughness
+    second: {fileID: 2800000, guid: d087c8e4f4305784aaabe3b0700d8aa7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_008_Specular Level
+    second: {fileID: 2800000, guid: 581d1eb2c52e7264793a3ad43800188e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_009_Albedo
+    second: {fileID: 2800000, guid: 5638a77b40fcf944c9a5cc388a6e0183, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_009_Metallic
+    second: {fileID: 2800000, guid: 4664a92c43275d244a9fef01b8fd7ba9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_009_Normal
+    second: {fileID: 2800000, guid: f4b69157018a045459bd69b7a79bcc3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_009_Opacity
+    second: {fileID: 2800000, guid: 003db7b2accc15d48880a3800ed148a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_009_Roughness
+    second: {fileID: 2800000, guid: 9fe38fd595c8f864a8b939137b3f216f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A23DMAT_009_Specular Level
+    second: {fileID: 2800000, guid: e764e583e51c4e9418e9b0718007778e, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
