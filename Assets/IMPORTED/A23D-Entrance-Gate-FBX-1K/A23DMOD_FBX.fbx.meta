@@ -23,87 +23,87 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: A23DMAT_001_Albedo
-    second: {fileID: 2800000, guid: 7de8aec581fcb254bbef492e337951c5, type: 3}
+    second: {fileID: 2800000, guid: 620433a93394f7a4296a964ab377b544, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: A23DMAT_001_Normal
-    second: {fileID: 2800000, guid: 712fadef2f3bf7e45bdd012ae03741cf, type: 3}
+    second: {fileID: 2800000, guid: 0875ae842e274cf429d051dfd3b627cf, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: A23DMAT_001_Opacity
-    second: {fileID: 2800000, guid: 471219b108a46804c889c78838d5602f, type: 3}
+    second: {fileID: 2800000, guid: d87b762899ed50448b1c84fc19c38cd1, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: A23DMAT_001_Roughness
-    second: {fileID: 2800000, guid: ca3012a2130c8174bb6e6b607723c709, type: 3}
+    second: {fileID: 2800000, guid: 1a1fbf44c8ee7a041bf644c7510bbc42, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: A23DMAT_001_Specular Level
-    second: {fileID: 2800000, guid: e5e73b8d89936e441ac3513fdea227f4, type: 3}
+    second: {fileID: 2800000, guid: 486ea5a037f2f324b91cbdf6e048661a, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: A23DMAT_002_Albedo
-    second: {fileID: 2800000, guid: e01d3d739388f6f4c8209c1c2291e809, type: 3}
+    second: {fileID: 2800000, guid: 5300f3fe4325ae8419270ab77cb8e3fe, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: A23DMAT_002_Metallic
-    second: {fileID: 2800000, guid: f51c3fdb38e001d49bb05b0375829c8a, type: 3}
+    second: {fileID: 2800000, guid: efb9332ecaf61804d93fd94b9976f189, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: A23DMAT_002_Normal
-    second: {fileID: 2800000, guid: 53ca414f46ef7e04caab187f097c5ada, type: 3}
+    second: {fileID: 2800000, guid: 046e3156069be254b892a0517cacb132, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: A23DMAT_002_Opacity
-    second: {fileID: 2800000, guid: 409faf626c3703f44b471c762d25ddc2, type: 3}
+    second: {fileID: 2800000, guid: 75b30d49b53c93442b9d88e51c4c4886, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: A23DMAT_002_Roughness
-    second: {fileID: 2800000, guid: 54d6a11b771b74742b3edc62f2d7379e, type: 3}
+    second: {fileID: 2800000, guid: ebf8d6445280f10429e9c3f5adb33df9, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: A23DMAT_002_Specular Level
-    second: {fileID: 2800000, guid: 2b2834ebd6b858d4ebbedfa36cb32c92, type: 3}
+    second: {fileID: 2800000, guid: d7c12772a485655439cb97a8ac394803, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: A23DMAT_003_Albedo
-    second: {fileID: 2800000, guid: 431d1b705596a804094974885c4e5eef, type: 3}
+    second: {fileID: 2800000, guid: 14e1883e4c9335d4eb45f1e612979398, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: A23DMAT_003_Metallic
-    second: {fileID: 2800000, guid: 1979b098480856e4794459f9d0c9f273, type: 3}
+    second: {fileID: 2800000, guid: 23fad6c24ce0fdc40ab41b5dde81676e, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: A23DMAT_003_Normal
-    second: {fileID: 2800000, guid: 0720aabd7c55d47458bed04efa88a94f, type: 3}
+    second: {fileID: 2800000, guid: 4a9b9d07f431360428c478a99a6c1057, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: A23DMAT_003_Opacity
-    second: {fileID: 2800000, guid: b15fdd24a5926d74084fe5d8eec864c3, type: 3}
+    second: {fileID: 2800000, guid: 67040f58ff6e70d478900ec49b6d1b09, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: A23DMAT_003_Roughness
-    second: {fileID: 2800000, guid: 95c546d73675f844daff2631121e7fbd, type: 3}
+    second: {fileID: 2800000, guid: 6edc72821c5354647ba480182c6aaf41, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: A23DMAT_003_Specular Level
-    second: {fileID: 2800000, guid: 4a637c9f11eb8d14280d323134b5d170, type: 3}
+    second: {fileID: 2800000, guid: 9175684bc3a604d4b920f8c9ecdbd888, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -148,7 +148,7 @@ ModelImporter:
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
