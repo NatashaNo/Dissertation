@@ -2,24 +2,22 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.EventSystems;
 
 public class SceneSwitcher : MonoBehaviour
 {
-    
-    public void SwitchToScene1()
+    public void LoadScene1()
     {
-        SceneManager.LoadScene(0); 
+        SceneManager.LoadScene("Scene1");
     }
 
-    
-    public void SwitchToScene2()
+    public void LoadScene2()
     {
-        SceneManager.LoadScene(1); 
+        SceneManager.LoadScene("Scene2");
     }
 
-    
-    public void SwitchToScene3()
+    public void LoadScene3()
     {
-        SceneManager.LoadScene(2); 
+        SceneManager.LoadScene("Scene3");
     }
 }

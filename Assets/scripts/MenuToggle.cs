@@ -1,18 +1,17 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR;
 
 public class MenuToggle : MonoBehaviour
 {
-    public GameObject menu; 
+    public GameObject menu;
     private bool isMenuActive = false;
     private InputDevice leftController;
+    private bool wasPressed = false; // To handle button press state
 
     void Start()
     {
         GetLeftController();
-
         menu.SetActive(false);
     }
 
@@ -20,22 +19,24 @@ public class MenuToggle : MonoBehaviour
     {
         if (!leftController.isValid)
         {
-            GetLeftController(); 
+            GetLeftController();
         }
 
+        // Check if primary button is pressed
         if (leftController.TryGetFeatureValue(CommonUsages.primaryButton, out bool isPressed))
         {
-            
-            if (isPressed)
+            // Only toggle if the button was not previously pressed
+            if (isPressed && !wasPressed)
             {
                 ToggleMenu();
             }
+            // Update wasPressed state
+            wasPressed = isPressed;
         }
     }
 
     private void GetLeftController()
     {
-        
         var leftHandDevices = new List<InputDevice>();
         InputDevices.GetDevicesAtXRNode(XRNode.LeftHand, leftHandDevices);
 
@@ -47,7 +48,6 @@ public class MenuToggle : MonoBehaviour
 
     private void ToggleMenu()
     {
-        
         isMenuActive = !isMenuActive;
         menu.SetActive(isMenuActive);
     }
